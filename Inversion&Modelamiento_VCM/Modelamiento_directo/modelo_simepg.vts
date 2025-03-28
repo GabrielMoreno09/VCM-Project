@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<VTKFile type="StructuredGrid" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <StructuredGrid WholeExtent="0 45 0 20 0 42">
+    <Piece Extent=""                                                                  >
+      <PointData>
+        <DataArray type="Float32" Name="density_contrast" format="appended" RangeMin=""                     RangeMax=""                     offset=""                    />
+      </PointData>
+      <CellData>
+      </CellData>
+      <Points>
+        <DataArray type="Float32" Name="Points" NumberOfComponents="3" format="appended" RangeMin=""                     RangeMax=""                     offset=""                    />
+      </Points>
+    </Piece>
+  </StructuredGrid>
+  <AppendedData encoding="base64">
+   _
+  </AppendedData>
+</VTKFile>
