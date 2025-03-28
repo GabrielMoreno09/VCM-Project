@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <VTKFile type="StructuredGrid" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
-  <StructuredGrid WholeExtent="0 45 0 20 0 42">
+  <StructuredGrid WholeExtent="0 45 0 27 0 50">
     <Piece Extent=""                                                                  >
       <PointData>
         <DataArray type="Float32" Name="density_contrast" format="appended" RangeMin=""                     RangeMax=""                     offset=""                    />
