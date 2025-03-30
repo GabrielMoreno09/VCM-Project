@@ -1,5 +1,5 @@
-Grid dimensions: 46 x 21 x 43
+Grid dimensions: 144 x 59 x 179
 Origin: [853614. 987543.  -6000.]
-Cell sizes: dx=118.125, dy=124.875, dz=675.0
-Total cells: 41538
-Active cells: 37539
+Cell sizes: dx=156.05999999999997, dy=130.04999999999998, dz=589.56
+Total cells: 1520784
+Active cells: 1518307
